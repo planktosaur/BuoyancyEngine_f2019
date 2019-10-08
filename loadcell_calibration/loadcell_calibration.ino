@@ -45,7 +45,7 @@ HX711 scale;
 
 File dataFile;
 int cycles = 0;
-float buoy_force;
+int buoy_force;
 
 long OnTime = 1000;
 long OffTime = 1000;
